@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/asottile/astpretty/commit/1fb4135054e6ef00173f556908c17e6807d26c52",
       "git:hexsha": "1fb4135054e6ef00173f556908c17e6807d26c52",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T11:31:26.265258+00:00"
     },
     {
       "@id": "https://repolex.ai/r/asottile/astpretty/commit/d78b21808515e21a9a9fe43f5f8b6c4d290df4a8",
