@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "asottile",
+  "repo": "astpretty",
+  "versions": [
+    {
+      "commit": "1fb4135054e6ef00173f556908c17e6807d26c52",
+      "parsed_at": "2026-10-20T11:29:16.670308+00:00",
+      "filetree": "filetree/1fb4135054e6ef00173f556908c17e6807d26c52.nq.gz",
+      "blobs": [
+        "blob/2c8c77644fae115c0f3726666e897978bfc51ee7.nq.gz",
+        "blob/ca1d90ea180858ae143c0e62d920e350d3acc62d.nq.gz",
+        "blob/478371cb976d0efe03d5eee67be571719f3c9b3e.nq.gz",
+        "blob/7f4d45a64dc994d0cf99a5d6737b32445ab7a8cd.nq.gz",
+        "blob/522fbe20b89911bb8d68b4a684a51225dd571764.nq.gz",
+        "blob/3d93aefb2da505dba9c0114404cfaaeee5ad0d3f.nq.gz",
+        "blob/9c1813ff870b66f976a3e84c3e9f0e3014a984a4.nq.gz",
+        "blob/8c38c3fa07daab3596dae959bfec1e3571868cb0.nq.gz",
+        "blob/b1447c3015af9511f2dee402ca4b5ad62adf5dce.nq.gz",
+        "blob/c3d12ec08c2acf518488935ebf4e254f356931f6.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/233fd7948ba2f1d9d99a143a4776af2beab75779.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
